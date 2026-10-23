@@ -1,0 +1,8 @@
+{
+  "name": "Remix OrderTrack Live",
+  "description": "Monitor incoming orders, track real-time deliveries, and receive instant status notifications through an interactive, seamless map interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
